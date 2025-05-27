@@ -1,10 +1,10 @@
 [
   {
-    "cid": "QmExemploHash1",
-    "nome": "imagem1.jpg"
+    "cid": "QmCID1",
+    "nome": "foto1.jpg"
   },
   {
-    "cid": "QmExemploHash2",
-    "nome": "imagem2.jpg"
+    "cid": "QmCID2",
+    "nome": "outraimagem.png"
   }
 ]
